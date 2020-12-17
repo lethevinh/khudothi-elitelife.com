@@ -22,8 +22,6 @@
     <list default="true" id="304119ec-40a2-477e-ac37-42f8d0cd07ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/aquacity/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/aquacity/assets/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/archives/blog.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/archives/blog.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/item/post.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/item/post.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/pages/home.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/pages/home.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
