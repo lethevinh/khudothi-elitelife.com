@@ -20,9 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="304119ec-40a2-477e-ac37-42f8d0cd07ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/item/tien-ich-noi-khu.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/aquacity/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/aquacity/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/CSR &amp; Private Key.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/Private Key.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/www_westlakes-golfandvillas_vn-CRT.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/www_westlakes-golfandvillas_vn-CRT/ChainCA1.crt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/www_westlakes-golfandvillas_vn-CRT/ChainCA2.crt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/www_westlakes-golfandvillas_vn-CRT/Chain_RootCA_Bundle.crt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/www_westlakes-golfandvillas_vn-CRT/RootCA.crt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/www_westlakes-golfandvillas_vn-CRT/rootca_12112020155334.pfx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/www_westlakes-golfandvillas_vn-CRT/www_westlakes-golfandvillas_vn_cert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/www_westlakes-golfandvillas_vn-CRT/www_westlakes-golfandvillas_vn_cert_12112020155453.pfx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/aquacity/assets/images/san-pham-an-tuong-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/aquacity/assets/images/san-pham-an-tuong-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/aquacity/assets/images/san-pham-an-tuong-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/aquacity/assets/images/san-pham-an-tuong-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/aquacity/assets/images/san-pham-an-tuong-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/aquacity/assets/images/san-pham-an-tuong-3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/pages/home.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/pages/home.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/snippets/font.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/snippets/font.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +62,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/aquacity/src/views/shortcodes/post" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -93,6 +109,8 @@
       <workItem from="1605362104771" duration="3892000" />
       <workItem from="1605421385061" duration="1023000" />
       <workItem from="1605585167415" duration="2576000" />
+      <workItem from="1608260280480" duration="134000" />
+      <workItem from="1608265844371" duration="1841000" />
     </task>
     <servers />
   </component>

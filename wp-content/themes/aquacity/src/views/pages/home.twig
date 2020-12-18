@@ -224,7 +224,11 @@
         </div>
         <div class="row">
             <div id="work-slider-5" class="owl-carousel owl-carousel-portfolio-2">
-                {% shortcode 'post_type'  with {type: 'post',category:'chuoi-tien-ich',template: 'tien-ich'} %}
+                {% for i in 1..14 %}
+                    {% set image = [theme_url(), 'assets/images/tien-ich-noi-khu-', i, '.png' ]|join %}
+                    {% include 'item/tien-ich-noi-khu.twig' with {image:image} %}
+                {% endfor %}
+                {#{% shortcode 'post_type'  with {type: 'post',category:'chuoi-tien-ich',template: 'tien-ich'} %}#}
             </div>
         </div>
         <!--- END ROW -->
@@ -313,7 +317,11 @@
         </div>
         <div class="row">
             <div class="owl-carousel owl-carousel-portfolio">
-                {% shortcode 'post_type'  with {type: 'post',category:'san-pham-an-tuong',template: 'tien-ich'} %}
+                {% for i in 1..14 %}
+                    {% set image = [theme_url(), 'assets/images/san-pham-an-tuong-', i, '.png' ]|join %}
+                    {% include 'item/tien-ich-noi-khu.twig' with {image:image} %}
+                {% endfor %}
+                {#{% shortcode 'post_type'  with {type: 'post',category:'san-pham-an-tuong',template: 'tien-ich'} %}#}
             </div>
         </div>
         <!--- END ROW -->
@@ -528,7 +536,11 @@
         </div>
         <div class="row">
             <div class="owl-carousel owl-carousel-portfolio">
-                {% shortcode 'post_type'  with {type: 'post',category:'tien-do-phan-khu-phoenix-south'} %}
+                {% for i in 1..10 %}
+                    {% set image = [theme_url(), 'assets/images/tien-do-thuc-te-', i, '.png' ]|join %}
+                    {% include 'item/tien-ich-noi-khu.twig' with {image:image} %}
+                {% endfor %}
+                {#{% shortcode 'post_type'  with {type: 'post',category:'tien-do-phan-khu-phoenix-south'} %}#}
             </div>
             <p class="text-green">
                 Dự án <strong>Aqua City</strong> khởi công xây dựng từ năm 2019, dự kiến bàn giao vào năm 2023, hiện tại dự án Aqua City - Đảo Phượng Hoàng đang triển khai phần hạ tầng.
