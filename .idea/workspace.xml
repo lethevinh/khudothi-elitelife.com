@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="304119ec-40a2-477e-ac37-42f8d0cd07ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/archives/blog.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/archives/blog.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/pages/home.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/a-aqua/src/views/pages/home.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +101,7 @@
       <workItem from="1608543640522" duration="3587000" />
       <workItem from="1608561567447" duration="6638000" />
       <workItem from="1608642626529" duration="77000" />
-      <workItem from="1608647885581" duration="1230000" />
+      <workItem from="1608647885581" duration="1702000" />
     </task>
     <servers />
   </component>
