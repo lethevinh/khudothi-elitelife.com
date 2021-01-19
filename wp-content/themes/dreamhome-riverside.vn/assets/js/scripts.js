@@ -189,28 +189,7 @@
     /*START WOW ANIMATION JS*/
     new WOW().init();
     /*END WOW ANIMATION JS*/
-    $('.btn-register-b').click(function(e) {
-
-        let form = $(this).parents('form');
-        let data = form.serializeArray();
-        if (data.every(item => item.value)) {
-            $.post('/', data)
-                .done(function() {
-                    // alert("second success");
-                })
-                .fail(function() {
-                    // alert("error");
-                })
-                .always(function() {
-                    $('#exampleModal').modal('hide');
-                    $('#thankModal').modal('show');
-                    form.get(0).reset();
-                });
-            e.stopPropagation();
-            e.preventDefault();
-        }
-    });
-    $('.btn-register-a').click(function(e) {
+    $('.btn-register-submit').click(function(e) {
         e.stopPropagation();
         e.preventDefault();
         let form = $(this).parents('form');
