@@ -1045,7 +1045,14 @@ ul.ul-green li .ti-check-box {
         z-index: 99;
         display: none;
     }
-
+    #design .owl-theme.carousel-single-slider .owl-controls{
+        width: 100%;
+        left: 0;
+        top: 10%;
+    }
+    #design .owl-theme .owl-controls img{
+        width: 20px;
+    }
     .span-list {
         min-width: fit-content;
     }
