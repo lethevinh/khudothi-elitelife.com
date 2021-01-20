@@ -163,7 +163,7 @@
                  data-wow-offset="0">
                 <div id="work-slider-6" class="owl-carousel owl-carousel-portfolio-1">
                     {% for i in 1..6 %}
-                        {% set image = [theme_url(), 'assets/images/tien-ich-noi-khu-', i, '.png' ]|join %}
+                        {% set image = [theme_url(), 'assets/images/tien-ich-noi-khu-', i, '.jpg' ]|join %}
                         {% include 'item/tien-ich-noi-khu.twig' with {image:image} %}
                     {% endfor %}
                 </div>
@@ -315,7 +315,7 @@
         <div class="row text-center no-padding">
             <div class="owl-carousel carousel-single-slider">
                 {% for i in 1..10 %}
-                    {% set image = [theme_url(), 'assets/images/mat-bang-', i, '.png' ]|join %}
+                    {% set image = [theme_url(), 'assets/images/mat-bang-', i, '.jpg' ]|join %}
                     {% include 'item/tien-ich-noi-khu.twig' with {image:image} %}
                 {% endfor %}
             </div>

@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="304119ec-40a2-477e-ac37-42f8d0cd07ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/dreamhome-riverside.vn/assets/images/design-1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/dreamhome-riverside.vn/src/views/pages/home.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/dreamhome-riverside.vn/src/views/pages/home.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +116,8 @@
       <workItem from="1611028214251" duration="2213000" />
       <workItem from="1611042580528" duration="1591000" />
       <workItem from="1611048338631" duration="83000" />
-      <workItem from="1611115392121" duration="282000" />
+      <workItem from="1611115392121" duration="445000" />
+      <workItem from="1611118151233" duration="27000" />
     </task>
     <servers />
   </component>
