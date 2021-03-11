@@ -12,7 +12,8 @@
                  data-wow-delay="0.1s" data-wow-offset="0" style="color: #606060">
                 <div class="single_feature pl-md-4 pt-md-0 pt-xl-2  m-0">
                     <h2 style="margin-top: -30px"
-                        class=" text-header-com underline-gradient text-bold header-title pt-md-0 md-auto-center mb-2 inline-l-0">
+                        class=" text-header-com-1 underline-gradient text-bold header-title pt-md-0 md-auto-center
+                        mb-2 inline-l-0">
                         TỔNG QUAN VỀ DỰ ÁN
                     </h2>
                     <ul class="m-0 ul-sssss ul-green">
@@ -95,11 +96,12 @@
     </div><!-- END CONTAINER -->
 </section>
 
-<section id="in-area" class="feature_area feature_area_check bg-linear-gradient pt-5 pb-5" style="background-repeat: no-repeat; background-image: url({{ theme_url() }}assets/images/bg-in-area.jpg)">
+<section id="in-area" class="feature_area feature_area_check pt-5 pb-5">
     <div class="container mb-3">
         <div class="row text-center">
             <div class="section-title text-center mb-0">
-                <h2 class="text-header-com underline-gradient text-bold header-title pt-md-0 md-auto-center mb-2 inline-w-80 w-100">
+                <h2 class="text-header-com-1 underline-gradient text-bold header-title pt-md-0 md-auto-center mb-2
+                inline-w-80 w-100">
                     CHUỖI TIỆN ÍCH NỘI KHU
                 </h2>
             </div>
@@ -107,7 +109,7 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 col-sm-12 col-xs-12 wow fadeInLeft no-padding" data-wow-duration="1s"
+            <div class=" offset-1 col-lg-10 col-sm-12 col-xs-12 wow fadeInLeft no-padding" data-wow-duration="1s"
                  data-wow-delay="0.1s" data-wow-offset="0" style="color: #606060">
                 <div class="single_feature pl-md-4 pt-md-0 pt-xl-2  m-0">
                     <ul class="m-0 ul-sssss ul-green">
@@ -134,7 +136,7 @@
                  data-wow-offset="0">
                 <div data-icon-prev="prev-1.png" data-icon-next="next-1.png" class="owl-carousel
                 owl-carousel-portfolio">
-                    {% for i in 1..6 %}
+                    {% for i in 1..3 %}
                         {% set image = [theme_url(), 'assets/images/tien-ich-noi-khu-', i, '.jpg' ]|join %}
                         {% include 'item/tien-ich-noi-khu.twig' with {image:image} %}
                     {% endfor %}
@@ -169,7 +171,7 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 col-sm-12 col-xs-12 wow fadeInLeft no-padding" data-wow-duration="1s"
+            <div class=" offset-1 col-lg-10 col-sm-12 col-xs-12 wow fadeInLeft no-padding" data-wow-duration="1s"
                  data-wow-delay="0.1s" data-wow-offset="0" style="color: #606060">
                 <div class="single_feature pl-md-4 pt-md-0 pt-xl-2  m-0">
                     <ul class="m-0 ul-sssss text-white ul-green">
@@ -196,7 +198,7 @@
                  data-wow-offset="0">
                 <div data-icon-prev="prev-1.png" data-icon-next="next-1.png" class="owl-carousel
                 owl-carousel-portfolio">
-                    {% for i in 1..6 %}
+                    {% for i in 1..3 %}
                         {% set image = [theme_url(), 'assets/images/tien-ich-ngoai-khu-', i, '.png' ]|join %}
                         {% include 'item/tien-ich-noi-khu.twig' with {image:image} %}
                     {% endfor %}
@@ -211,7 +213,7 @@
         <div class="row">
             <div class="section-title mt-3 mb-3 ">
                 <div class="single_feature pt-md-0  m-0">
-                    <h1 class="text-green text-bold header-title pt-0 mt-0 auto-center text-header-com">
+                    <h1 class="text-green text-bold header-title pt-0 mt-0 auto-center text-header-com-1">
                         MẶT BẰNG DỰ ÁN
                     </h1>
 

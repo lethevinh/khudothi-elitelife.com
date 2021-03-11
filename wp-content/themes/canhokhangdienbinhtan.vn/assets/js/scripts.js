@@ -12,10 +12,10 @@
                 $('#modalPopup').modal('show');
             }, 15000);*/
             setTimeout(function (){
-             //  $('#exampleModal[aria-hidden="true"]').modal('show');
+               $('#exampleModal[aria-hidden="true"]').modal('show');
             }, 30000);
             setTimeout(function (){
-              // $('#exampleModal[aria-hidden="true"]').modal('show');
+               $('#exampleModal[aria-hidden="true"]').modal('show');
             }, 60000);
         });
         /*END PRELOADER JS*/
@@ -98,7 +98,6 @@
                 next = next ? next : 'next.png';
                 let items = carousel.data('items');
                 items = items ? items : 3;
-                console.log(items)
                 carousel.owlCarousel({
                     items: items,
                     itemsDesktop: [1000, items],
