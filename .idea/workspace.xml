@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="304119ec-40a2-477e-ac37-42f8d0cd07ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/canhokhangdienbinhtan.vn/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/canhokhangdienbinhtan.vn/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/canhokhangdienbinhtan.vn/src/views/archives/blog.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/canhokhangdienbinhtan.vn/src/views/archives/blog.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/canhokhangdienbinhtan.vn/src/views/pages/home.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/canhokhangdienbinhtan.vn/src/views/pages/home.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/canhokhangdienbinhtan.vn/src/views/sections/footer.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/canhokhangdienbinhtan.vn/src/views/sections/footer.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +120,7 @@
       <workItem from="1611048338631" duration="83000" />
       <workItem from="1611115392121" duration="445000" />
       <workItem from="1611118151233" duration="166000" />
-      <workItem from="1615784462996" duration="2173000" />
+      <workItem from="1615784462996" duration="2700000" />
     </task>
     <servers />
   </component>
