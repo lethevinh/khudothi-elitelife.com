@@ -83,8 +83,8 @@ strong,
 .register .btn {
     font-family: "UTM AvoBold", serif;
     border: none;
-    background-color: #4CB648;
-    color: white;
+    background-color: white;
+    color: #0e823d;
     font-size: 12px;
 }
 .video-wrapper {
@@ -1008,6 +1008,9 @@ ul.ul-green li .ti-check-box {
     .single_feature_333.single_feature ul li {
         margin-bottom: 0;
         line-height: 1.9rem;
+    }
+    #design .block-icon li, #design .single_feature ul li{
+        width: 100%;
     }
 }
 
