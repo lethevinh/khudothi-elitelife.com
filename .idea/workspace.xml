@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="304119ec-40a2-477e-ac37-42f8d0cd07ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/khudothi-elitelife.com/src/views/pages/home.twig" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/khudothi-elitelife.com/src/views/pages/home.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/khudothi-elitelife.com/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/khudothi-elitelife.com/assets/css/custom.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +121,7 @@
       <workItem from="1615784462996" duration="3026000" />
       <workItem from="1616073598435" duration="48000" />
       <workItem from="1616684035627" duration="6402000" />
-      <workItem from="1616729492181" duration="4083000" />
+      <workItem from="1616729492181" duration="4276000" />
     </task>
     <servers />
   </component>

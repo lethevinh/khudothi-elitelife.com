@@ -1012,6 +1012,9 @@ ul.ul-green li .ti-check-box {
     #design .block-icon li, #design .single_feature ul li{
         width: 100%;
     }
+    #home {
+        background-image: url("../images/1-mobile.jpg") !important;
+    }
 }
 
 @media only screen and (max-width: 480px) {
