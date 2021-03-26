@@ -1247,7 +1247,7 @@ p {
 }
 
 .text-header-com {
-    color: #E0CF79;
+    color: #10823E;
 }
 .text-header-com-1 {
     color: #1c823e;
@@ -1369,7 +1369,9 @@ ul .ti-check-box{
 .footer-logo {
     max-width: 350px;
 }
-
+.w-80{
+    width: 80%;
+}
 .slider-text-img {
     /*max-height: 180px;*/
 }
